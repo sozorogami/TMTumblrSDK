@@ -6,6 +6,7 @@
 //  Copyright (c) 2014 Tumblr. All rights reserved.
 //
 
+@import Foundation;
 #import <Foundation/Foundation.h>
 
 @interface TMSDKUserAgent : NSObject
